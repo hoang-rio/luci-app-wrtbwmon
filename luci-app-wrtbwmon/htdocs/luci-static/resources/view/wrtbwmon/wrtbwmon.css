@@ -63,4 +63,11 @@ div > label + select {
 #traffic .tr:not(.table-totals):not(.placeholder) > .td:not(.th):first-child::before {
 	content: attr(title)'\a';
 	white-space: pre-line;
+	display: block;
+	text-align: center;
+}
+@media screen and (max-width: 1152px) {
+	#traffic .tr:not(.table-totals):not(.placeholder) > .td:not(.th):first-child::before {
+		text-align: left;
+	}
 }
