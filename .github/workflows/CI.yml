@@ -76,7 +76,7 @@ jobs:
               repo: context.repo.repo,
               tag_name: tag,
               draft: false,
-              prerelease: true,
+              prerelease: false,
             });
             // Upload the release asset
             const fs = require('fs');
