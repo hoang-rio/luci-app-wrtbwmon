@@ -1,8 +1,13 @@
 # luci-app-wrtbwmon
 
-[![CI](https://github.com/brvphoenix/luci-app-wrtbwmon/workflows/CI/badge.svg)](https://github.com/brvphoenix/luci-app-wrtbwmon/actions)
-[![GitHub All Releases](https://img.shields.io/github/downloads/brvphoenix/luci-app-wrtbwmon/total)](https://github.com/brvphoenix/luci-app-wrtbwmon/releases)
-[![Lastest Release](https://img.shields.io/github/v/release/brvphoenix/luci-app-wrtbwmon.svg?logo=github&cacheSeconds=10&label=latest)](https://github.com/brvphoenix/luci-app-wrtbwmon/releases/latest)
+[![CI](https://github.com/hoang-rio/luci-app-wrtbwmon/workflows/CI/badge.svg)](https://github.com/hoang-rio/luci-app-wrtbwmon/actions)
+[![GitHub All Releases](https://img.shields.io/github/downloads/hoang-rio/luci-app-wrtbwmon/total)](https://github.com/hoang-rio/luci-app-wrtbwmon/releases)
+[![Lastest Release](https://img.shields.io/github/v/release/hoang-rio/luci-app-wrtbwmon.svg?logo=github&cacheSeconds=10&label=latest)](https://github.com/hoang-rio/luci-app-wrtbwmon/releases/latest)
+
+This repo is a fork of [brvphoenix/luci-app-wrtbwmon](https://github.com/brvphoenix/luci-app-wrtbwmon) by [@hoang-rio](https://github.com/hoang-rio)
+
+---
+**Original README:**
 
 This repo provides yet another LuCI module for wrtbwmon, which has similar features with [Kiougar's one](https://github.com/Kiougar/luci-wrtbwmon). The differnence is that this one has more features supported:
 1. Support IPV6.
